@@ -1,5 +1,5 @@
 # <p align="center" style="margin-top: 0px;">  **`OYO business`**
-# <p align="center" style="margin-top: 0px;"> ![Oyo1](https://github.com/AmitPatel-analyst/SQL-Case-Study/assets/120770473/1796bf70-d14d-4295-ae5b-018f0f14fa80)
+# <p align="center" style="margin-top: 0px;"> ![Oyo1](https://github.com/pawar03/OYO-Business-Case-Study--SQL/blob/79484acccbf54ae96fa3a5358ce62e532a9bc216/OYO%20business%20case%20study/Screenshot%202025-01-08%20162617.png)
 This repository hosts the solutions for Oyo business room sales analysis.        
 I used various SQL functions such as :          
 ✅ Case When Statements           
